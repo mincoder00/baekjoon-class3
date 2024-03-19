@@ -24,7 +24,7 @@ int main(void) {
 	for (int i = 0; i < m; i++) cout << result[i]<<'\n';
 }
 //벡터는 입력받을 때 동적으로 크기가 조정되기 때문에
-//0인덱스부터 시작 안하면 OUT		OF RANGE 오류 
+//0인덱스부터 시작 안하면 OUT OF RANGE 오류 
 // vector pair 자료형으로 시도했지만 시간초과
 // hash map 을 사용하자!
 // 아스키 코드로 A = 65, Z=90
