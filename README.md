@@ -1,6 +1,6 @@
 # BOJ Class 3 풀이집
 
-이 저장소는 백준 온라인 저지 (BOJ)의 Class 3 문제 풀이를 모아놓은 곳입니다. 각 문제는 상세한 설명과 함께 풀이 코드를 포함하고 있습니다.
+이 저장소는 백준 온라인 저지 (BOJ)의 Class 3 문제 풀이를 모아놓은 곳입니다. 문제 제목을 클릭하면 백준 문제 페이지로 이동할 수 있습니다.
 
 ## 문제 목록
 
@@ -39,7 +39,10 @@
 33. [30804번: 과일 탕후루](https://www.acmicpc.net/problem/30804)
 34. [5430번: AC](https://www.acmicpc.net/problem/5430)
 35. [7569번: 토마토](https://www.acmicpc.net/problem/7569)
+36. [16928번: 뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+37. [10026번: 적록색약](https://www.acmicpc.net/problem/10026)
+38. [7662번 : 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
 
 ## 설명
 
-이 저장소에는 각 문제의 소스 코드와 함께 문제에 대한 간략한 설명이 포함되어 있습니다. 문제 제목을 클릭하면 백준 문제 페이지로 이동할 수 있습니다.
+UpdatedAt 2024/07/10
