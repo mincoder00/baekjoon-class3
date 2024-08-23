@@ -45,4 +45,4 @@
 
 ## 설명
 
-UpdatedAt 2024/07/10
+UpdatedAt 2024/08/23
